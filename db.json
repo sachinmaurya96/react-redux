@@ -1,0 +1,6 @@
+{
+    "product":[
+        {"id":"1","amount":2,"bonus":1 },
+        {"id":"2","amount":5,"bonus":2 }
+    ]
+}
